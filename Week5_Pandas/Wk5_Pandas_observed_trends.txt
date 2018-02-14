@@ -1,0 +1,9 @@
+Week 5 Ð Pandas Homework Ð Academy of Py
+
+Observable Trends
+
+1)  Larger Schools with 3500-5000 students have a significantly lower % passing math and reading scores compared to smaller schools with <1500 students. (64.32%, 78.38% and 90.67%. 92.78%, respectively. 
+
+2) Charter Schools also do noticeably better, with an overall passing rate of 91.71% versus 71.31%.
+
+3) Surprisingly, money isnÕt the issue when it comes to the best passing rate scores. Schools that spend more per student with a budget of $650-$675 in this district only have a 71.25% passing rate, whereas schools that budget the least, $575-$600 per student, have a 91.72% passing rate.
