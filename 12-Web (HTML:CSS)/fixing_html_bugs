@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>html5 tags for semantic meaning</title>
+    </head>
+    <body>
+        <div></div>
+        <span></span>
+        <header>
+            This is the header!
+        </header>
+        
+        <nav>
+            <h2>Navigation!</h2>
+            <ul>
+                <li><a href="https://www.google.com">google</a></li>
+                <li><a href="https://www.bing.com">what's bing?</a></li>        
+            </ul>
+        </nav>
+
+        <article>
+            <h2>my article!</h2>
+            <section>
+                <h3>section 1</h3>
+                <p>
+                    paragraph info
+                    <span>span 1 text spans are inline elements. </span>
+                    <span>span 2 text</span>
+                    <div>div1 text: divs are block elements</div>
+                    <div>div2 text</div>
+                </p>
+            </section>
+        </article>
+        
+        <footer>
+            &copy; Eddy @ Shyu
+        </footer>
+    </body>
+</html>

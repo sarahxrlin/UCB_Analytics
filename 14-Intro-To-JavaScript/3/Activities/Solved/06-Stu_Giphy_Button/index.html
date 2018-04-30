@@ -14,7 +14,8 @@
     
         // Your code below
         d3.select("button").on("click", function() {
-            var queryURL = "https://api.giphy.com/v1/gifs/trending?api_key=dc6zaTOxFJmzC";
+            var queryURL = "";
+            // https://api.giphy.com/v1/gifs/trending?api_key=dc6zaTOxFJmzC
             d3.json(queryURL, function (error, response) {
                 if (error) return console.warn(error);
                 console.log("url", response);
@@ -22,6 +23,8 @@
                 d3.select(".imgGoesHere").append("img").attr("src", url);
             })
         })
+
+
 
     </script>
 
